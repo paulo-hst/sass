@@ -1,4 +1,4 @@
-<h1 align="center">Cosmo Dev</h1>
+<h1 align="center">SASS</h1>
 
 ## Objetivo
 Site exemplo criado utilizando o conceito de Mobile First Development, onde o foco inicial do desenvolvimento é direcionado aos dispositivos móveis. Tutorial concluido a partir dos vídeos do The Net Ninja.
