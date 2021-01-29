@@ -4,7 +4,7 @@
 Site exemplo criado utilizando o conceito de Mobile First Development, onde o foco inicial do desenvolvimento é direcionado aos dispositivos móveis. Tutorial concluido a partir dos vídeos do The Net Ninja.
 
 ## Exemplo do aplicativo
-[Clique aqui!](https://paulo-hst.github.io/mobile-first-cosmo-dev/)
+[Clique aqui!](https://paulo-hst.github.io/sass/)
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - HTML5
